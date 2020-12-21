@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raj Kalathiya</h1>
-<h3 align="center">I am a student at Dharmsinh Desai University</h3>
+Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
+<p> I'm a student and currently studey at [Dharmsinh desai university](https://ddu.ac.in/) </p>
 
 - 🌱 I’m currently learning **Web Technologies.**
 
