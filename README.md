@@ -1,4 +1,4 @@
-Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style = "margin-top=5px"/>
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style = "margin-top=5px"/>
 <p> I'm a student and currently pursuing degree at <a href="https://ddu.ac.in/">Dharmsinh Desai University</a> </p>
 
 - 🌱 I’m currently learning **Web Technologies.**
