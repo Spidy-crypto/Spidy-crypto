@@ -1,5 +1,5 @@
-Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
-<p> I'm a student and currently studey at [Dharmsinh desai university](https://ddu.ac.in/) </p>
+Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style = "margin-top=5px"/>
+<p> I'm a student and currently studey at <a href="https://ddu.ac.in/">Dharmsinh Desai University</a> </p>
 
 - 🌱 I’m currently learning **Web Technologies.**
 
