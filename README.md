@@ -7,6 +7,7 @@
 
 ### Achievements
 ![Raj github stats](https://github-readme-stats.vercel.app/api?username=Spidy-crypto&show_icons=true)
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy-crypto&layout=compact&langs_count=6&theme=graywhite)
 
