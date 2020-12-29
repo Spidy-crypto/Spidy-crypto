@@ -6,8 +6,10 @@
 - 📫 How to reach me **rajkalathiya699@gmail.com**
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<br/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy-crypto&layout=compact&langs_count=6&theme=graywhite)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy-crypto&langs_count=7&theme=tokyonight)]()
+
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Spidy-crypto/count.svg)
