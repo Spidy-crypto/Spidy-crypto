@@ -20,7 +20,7 @@
 
 <p>
 <a href="https://linkedin.com/in/raj-kalathiya-0bbab8193" target="_blank">
-  <img  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="raj-kalathiya-0bbab8193" height="60" width="60" />
+  <img  src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" type="_blank"alt="raj-kalathiya-0bbab8193" height="60" width="60" />
 </a>
 <a href="https://instagram.com/spidy_02" target="_blank">
   <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="spidy_02" height="60" width="60" />
