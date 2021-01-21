@@ -14,7 +14,6 @@
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Spidy-crypto/count.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Spidy-crypto&show_icons=true&theme=radical&line_height=27&v=5" alt="https://github.com/DZ521111" />
 
 # Language and Tools
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" /> </a>
