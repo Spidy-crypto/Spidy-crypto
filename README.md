@@ -16,7 +16,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spidy-crypto&show_icons=true&theme=radical&line_height=27&v=5" alt="https://github.com/DZ521111" />
 
-
+# Language and Tools
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" /> </a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" /></a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
 <p>
 <a href="https://linkedin.com/in/raj-kalathiya-0bbab8193" target="_blank">
