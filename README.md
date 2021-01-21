@@ -25,6 +25,8 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Spidy-crypto&&show_icons=true&theme=radical&line_height=27&v=5" alt="https://github.com/Spidy-Crypto" />
+
 
 # Contact me 
 <p>
